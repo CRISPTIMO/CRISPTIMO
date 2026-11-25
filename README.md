@@ -19,12 +19,13 @@
 
 ```console
 root@kali:~# whoami
-crisptimo — Red Team. Исследую веб-приложения и ищу интересные уязвимости.
+crisptimo — Red Team. Исследую всё, проникаю везде.
 
 root@kali:~# cat mission.txt
-find the flaw.
-understand the system.
-leave no trace.
+find the hole.
+use the hole.
+leave no logs.
+no harm, no crime.
 ```
 
 ### `// capabilities`
