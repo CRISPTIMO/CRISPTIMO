@@ -64,3 +64,4 @@ leave no trace.
 </details>
 
 <div align="center"><sub>// access granted_</sub></div>
+<div align="center"><sub>README собран <a href="https://claude.com/claude-code">Claude Code</a>, with love &lt;3</sub></div>
