@@ -9,7 +9,7 @@
  ╚═════╝╚═╝  ╚═╝╚═╝╚══════╝╚═╝        ╚═╝   ╚═╝╚═╝     ╚═╝ ╚═════╝ 
 ```
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=FF2222&center=true&vCenter=true&width=520&lines=Red+Team+operator;WEB+%C2%B7+OSINT+%C2%B7+DevOps;find+the+flaw.+leave+no+trace." alt="Red Team operator · WEB · OSINT · DevOps — find the flaw. leave no trace." />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=FF2222&center=true&vCenter=true&width=520&lines=Red+Team+operator;WEB+%C2%B7+OSINT+%C2%B7+DevOps;find+the+hole.+leave+no+logs." alt="Red Team operator · WEB · OSINT · DevOps — find the hole. leave no logs." />
 
 <a href="https://t.me/MAKC_MAKCBETOB"><img src="https://img.shields.io/badge/Telegram-0d0d0d?style=for-the-badge&logo=telegram&logoColor=ff2222" alt="Telegram" /></a>
 <a href="https://steamcommunity.com/id/NotARicRol32/"><img src="https://img.shields.io/badge/Steam-0d0d0d?style=for-the-badge&logo=steam&logoColor=ff2222" alt="Steam" /></a>
